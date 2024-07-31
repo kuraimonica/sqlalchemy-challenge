@@ -38,7 +38,8 @@ Filter by the station that has the greatest number of observations.
 Query the previous 12 months of TOBS data for that station.
 Plot the results as a histogram with bins=12, 
 
-https://static.bc-edx.com/data/dla-1-2/m10/lms/img/station-histogram.jpg![image](https://github.com/user-attachments/assets/cf8553f4-2dc5-411e-9255-5b4457ea09be)
+https://static.bc-edx.com/data/dla-1-2/m10/lms/img/station-histogram.jpg![image]
+
 
 Close your session.
 Part 2: Design Your Climate App
