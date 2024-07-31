@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/455ac373-ffb6-424e-8f4a-9e386a70586a)# sqlalchemy-challenge
+
 Module 10 Challenge
 Background
 
@@ -21,7 +21,7 @@ Load the query results into a Pandas DataFrame. Explicitly set the column names.
 Sort the DataFrame values by "date".
 Plot the results by using the DataFrame plot method, as the following image shows:
 
-https://static.bc-edx.com/data/dla-1-2/m10/lms/img/station-histogram.jpg![image](https://github.com/user-attachments/assets/79767643-e3a4-4a68-a4e7-fb875d5b15c1)
+![image](https://github.com/user-attachments/assets/455ac373-ffb6-424e-8f4a-9e386a70586a)# sqlalchemy-challenge
 
 
 Use Pandas to print the summary statistics for the precipitation data.
@@ -37,6 +37,9 @@ Design a query to get the previous 12 months of temperature observation (TOBS) d
 Filter by the station that has the greatest number of observations.
 Query the previous 12 months of TOBS data for that station.
 Plot the results as a histogram with bins=12, 
+
+https://static.bc-edx.com/data/dla-1-2/m10/lms/img/station-histogram.jpg![image](https://github.com/user-attachments/assets/cf8553f4-2dc5-411e-9255-5b4457ea09be)
+
 Close your session.
 Part 2: Design Your Climate App
 
