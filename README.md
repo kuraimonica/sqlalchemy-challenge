@@ -21,6 +21,9 @@ Load the query results into a Pandas DataFrame. Explicitly set the column names.
 Sort the DataFrame values by "date".
 Plot the results by using the DataFrame plot method, as the following image shows:
 
+https://static.bc-edx.com/data/dla-1-2/m10/lms/img/station-histogram.jpg![image](https://github.com/user-attachments/assets/79767643-e3a4-4a68-a4e7-fb875d5b15c1)
+
+
 Use Pandas to print the summary statistics for the precipitation data.
 Station Analysis
 
