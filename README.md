@@ -38,7 +38,7 @@ Filter by the station that has the greatest number of observations.
 Query the previous 12 months of TOBS data for that station.
 Plot the results as a histogram with bins=12, 
 
-https://static.bc-edx.com/data/dla-1-2/m10/lms/img/station-histogram.jpg![image]
+[https://static.bc-edx.com/data/dla-1-2/m10/lms/img/station-histogram.jpg![image]](https://static.bc-edx.com/data/dla-1-2/m10/lms/img/station-histogram.jpg)
 
 
 Close your session.
